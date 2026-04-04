@@ -568,3 +568,10 @@ GLOBAL_LIST_EMPTY(cmode_tracks_by_name)
 	shortname = "Ready to Die"
 	credits = "T-87 SULFURHEAD - I'M READY TO DIE, ARE YOU? (https://www.youtube.com/watch?v=cJpAxIvd8_g)"
 	musicpath = list('sound/music/cmode/combat_ready_to_die.ogg')
+
+/datum/combat_music/reverberation
+	name = "Reverberation"
+	desc = "\"Blessed fool. The fight reaches it's crescendo, and you it's conductor. Will you continue the melody or let it fizzle and die?\""
+	shortname = "Reverberation"
+	credits = "THE BLUE REVERBERATION // LIBRARY OF RUINA OST"
+	musicpath = list('sound/music/combat_reverberation.ogg')
